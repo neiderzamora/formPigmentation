@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    // Otras opciones de compilador según sea necesario
+  },
+  "files": [
+    "./tsconfig.node.json",
+    "./tsconfig.app.json",
+    // Otros archivos TypeScript según sea necesario
+  ]
+}
