@@ -4,6 +4,7 @@
     "module": "commonjs",
     "strict": true,
     "esModuleInterop": true,
+    "experimentalDecorators": true,
     // Otras opciones de compilador según sea necesario
   },
   "files": [
